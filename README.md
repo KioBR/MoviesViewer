@@ -14,7 +14,7 @@ App Android para visualizar filmes usando a API do TMDB.
 - **Kotlin** + **Jetpack Compose**
 - **MVVM** com Clean Architecture
 - **Koin** para injeção de dependência
-- **Retrofit** + **Gson** para API
+- **Retrofit** + **Kotlin Serialization** para API
 - **Coil** para carregamento de imagens
 - **Navigation Compose**
 - **Coroutines** + **Flow**
